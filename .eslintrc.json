@@ -28,7 +28,8 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "curly": "error"
   },
   "settings": {
     "import/resolver": {
